@@ -4,31 +4,11 @@ This is a Java program that allows the user to choose the size of an array and t
 
  # Usage
  
-1.	Clone the repository to your local machine.
+1.	Follow the prompts in the menu to choose the size of the array, the range of random values, and how many elements to print from the unsorted and sorted arrays.
 
-      •	 git clone https://github.com/your-username/DifferentSorts.git 
-      
-      
-2.	Navigate to the DifferentSorts directory.
+2.	After the array is filled with random values, the user will be brought back to the menu to choose between bubble sort or merge sort.
 
-      •	 cd DifferentSorts 
-      
-      
-3.	Compile the program.
-
-      •	 javac Main.java 
-      
-      
-4.	Run the program.
-
-      •	 java Main 
-      
-
-5.	Follow the prompts in the menu to choose the size of the array, the range of random values, and how many elements to print from the unsorted and sorted arrays.
-
-6.	After the array is filled with random values, the user will be brought back to the menu to choose between bubble sort or merge sort.
-
-7.	The time to sort the array using the chosen algorithm will be recorded and displayed to the user.
+3.	The time to sort the array using the chosen algorithm will be recorded and displayed to the user.
 
 
 # Notes
